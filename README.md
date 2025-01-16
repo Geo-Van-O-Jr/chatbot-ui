@@ -117,7 +117,7 @@ brew install supabase/tap/supabase
 **Windows**
 
 ```bash
-scoop bucket add supabase https://github.com/supabase/scoop-bucket.git
+oscop bucket add supabase https://github.com/supabase/scoop-bucket.git
 scoop install supabase
 ```
 
